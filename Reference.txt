@@ -1,0 +1,60 @@
+YouTube : 
+https://www.youtube.com/watch?v=ozXGkqpzo_A&list=PLC3y8-rFHvwg2RBz6UplKTGIXREj9dV0G
+Angular Authentication Tutorial - 1 - Introduction
+Codevolution
+
+
+Github : 
+https://github.com/gopinav
+
+Overview
+Setup Express Server
+Setup MongoDB
+REST Apis
+	Register new user
+	Login user
+	Fetch regular events
+	Fetch special events
+Test Api using POSTMAN
+Anugular App using Angular CLI
+Authenticating angular app
+
+Create server
+Create folder name backend
+cd:\> cd backend
+cd:\backend>npm init --yes
+cd:\backend>npm install express body-parser --yes
+cd:\backend>node server
+
+https://account.mongodb.com/account/login?signedOut=true
+ferhanuddin@gmail.com
+9692ferhan
+
+mongoosejs.com
+
+Convert mongoDB object to javascript object
+cd:\backend>npm i --save mongoose
+
+cd:\backend>npm i --save cors
+
+https://jwt.io
+header.payload.signature
+cd:\backtend>npm i jsonwebtoken --save
+
+Angular App
+Generate new app by angular cli
+Add components and routing
+Develop registeration UI and service
+Develop login UI and service
+Develop events UI and service
+Add authentication
+Login/Logout buttons UI logic
+
+cd:\frontend>ng g guard auth
+
+
+
+
+
+
+
